@@ -7,7 +7,7 @@ Identifying plant leaf diseases accurately and timely is crucial for ensuring fo
 ![Proposed Vision Extended xLSTM Model](https://github.com/arya-domain/Vision-Extended-xLSTM/blob/main/materials/Methodology_diagram.png)
 
 ## Datasets
-- **Apple Disease Dataset**: Contains 7,771 colored images of both healthy and unhealthy apple leaves, divided into four classes. [Dataset Link](https://www.kaggle.com/datasets/ludehsar/apple-disease-dataset)
+- **Apple Disease Dataset**: Contains 7,771 colored images of both healthy and unhealthy apple leaves, divided into 4 classes. [Dataset Link](https://www.kaggle.com/datasets/ludehsar/apple-disease-dataset)
 - **Bangladeshi Crops Disease Dataset**: Includes 31,053 samples of main crops in Bangladesh, divided into 15 classes. [Dataset Link](https://www.kaggle.com/datasets/nafishamoin/bangladeshi-crops-disease-dataset)
 - **New Plant Diseases Dataset**: Contains over 87K rgb photos of both healthy and damaged crop leaves, divided into 38 classes. [Dataset Link](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
 
